@@ -1,0 +1,16 @@
+{
+  "validLogin": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "invalidLogin": {
+    "username": "InvalidUser",
+    "password": "InvalidPassword"
+  },
+  "searchExistingEmployee": "Nader",
+  "searchNonExistingEmployee": "ZzzNonExisting999",
+  "newEmployee": {
+    "firstName": "Nader",
+    "lastName": "Elbana"
+  }
+}
